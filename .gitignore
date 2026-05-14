@@ -1,0 +1,14 @@
+gitignore# Dependencias
+node_modules/
+
+# Build
+dist/
+
+# Variables de entorno
+.env
+.env.local
+.env.production
+
+# Sistema
+.DS_Store
+*.log
